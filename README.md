@@ -2,7 +2,7 @@
 
 Full screen image slider with auto slider functionality
 
-Purpose in mind was to be a elegant way of presenting products or services to customers
+Purpose in mind was to be an elegant way of presenting products or services to customers
 
 ### Built with
 
